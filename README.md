@@ -45,8 +45,8 @@ If you want to clone this repository and run the engine on your own machine:
    git clone [https://github.com/Gaurav28r/Live_Aggregator.git](https://github.com/Gaurav28r/Live_Aggregator.git)
    cd Live_Aggregator
    
-   ## 👨‍💻 Author
+## 👨‍💻 Author
 
 **Gaurav Verma**
-*Computer Science & Engineering (AIML) Student*
-Built as a 4th-semester mini-project focusing on API integration, algorithmic data cleaning, and secure cloud deployment.
+*Computer Science & Engineering (AIML) Student*<br>
+Built as a mini-project focusing on API integration, algorithmic data cleaning, and secure cloud deployment.
