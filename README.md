@@ -49,4 +49,4 @@ If you want to clone this repository and run the engine on your own machine:
 
 **Gaurav Verma**
 *Computer Science & Engineering (AIML) Student*<br>
-Built as a mini-project focusing on API integration, algorithmic data cleaning, and secure cloud deployment.
+Built as a project focusing on API integration, algorithmic data cleaning, and secure cloud deployment.
